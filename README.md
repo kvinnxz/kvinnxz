@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Banner principal -->
-<img src="https://raw.githubusercontent.com/kvinnxz/kvinnxz/main/campuslands.png" alt="Campuslands Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/kvinnxz/kvinnxz/main/CampusLogo-D-tNsIok.png" alt="Campuslands Banner" width="100%"/>
 
 <br/>
 <br/>
 
 # Hola, soy Kevin Pico 👾
-### Estudiante de Desarrollo de Software en Campuslands · Gamer & Dev 🎮
+### Estudiante de Desarrollo de Software en Campuslands · Apasionado por la Ciberseguridad 🔐
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+en+formaci%C3%B3n+%F0%9F%9A%80;Apasionado+por+JavaScript+y+Python;Explorando+C%23+y+nuevos+horizontes;El+c%C3%B3digo+es+mi+segundo+idioma+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=540&lines=Estudiante+de+Desarrollo+de+Software+%F0%9F%9A%80;Apasionado+por+la+Ciberseguridad+%F0%9F%94%90;Automatizando+el+mundo+con+n8n+%E2%9A%99%EF%B8%8F;Aprendiendo+.NET+d%C3%ADa+a+d%C3%ADa+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre mí
 
-Soy estudiante de desarrollo de software en **Campuslands**, con pasión por construir interfaces web modernas y explorar nuevas tecnologías. Me motiva el aprendizaje constante y disfruto tanto del mundo del desarrollo como del de los videojuegos 🎮.
+Soy estudiante de desarrollo de software en **Campuslands**, con un fuerte interés en la **ciberseguridad** y la **automatización de procesos**. Me apasiona entender cómo funcionan los sistemas por dentro y construir soluciones eficientes y seguras.
 
 ```javascript
 const kevin = {
@@ -25,10 +25,10 @@ const kevin = {
   usuario:      "@kvinnxz",
   rol:          "Estudiante de Desarrollo de Software",
   institucion:  "Campuslands 🚀",
-  stack:        ["HTML", "CSS", "JavaScript", "React", "Python"],
-  aprendiendo:  "C#",
-  intereses:    ["Web Development", "Videojuegos", "UI/UX"],
-  funFact:      "Debuggeo mejor con música de fondo 🎧"
+  stack:        ["JavaScript", "HTML", "CSS", "MySQL", "Git", "C#", ".NET", "n8n"],
+  aprendiendo:  ".NET",
+  intereses:    ["Ciberseguridad", "Automatización", "Backend Development"],
+  funFact:      "Me gusta entender cómo funciona todo por dentro 🔍"
 };
 ```
 
@@ -36,22 +36,24 @@ const kevin = {
 
 ## 🛠️ Tecnologías y herramientas
 
-**Frontend**
+**Web & Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend & Scripting**
+**Backend & Base de datos**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Herramientas**
+**Herramientas & Metodologías**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -86,6 +88,6 @@ const kevin = {
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=kvinnxz&color=yellow&style=flat-square&label=Visitas+al+perfil)
 
-*"El código es poesía que las máquinas entienden."*
+*"La seguridad no es un producto, es un proceso."* — Bruce Schneier
 
 </div>
